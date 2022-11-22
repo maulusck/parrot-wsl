@@ -10,7 +10,7 @@ This is a work in progress to create a licensed, official and Parrot Team-approv
 > ~ Some guy who uses Parrot
 
 ### Following here is the official documentation from Microsoft®.
-Most of the code is released from them as MIT licensed. I _do not_ take any credits for it, only for the modifications made in order to build the customized app. The sole purpose of this repo is for keeping the customizations, not to republish as mine other people's code. Thank you for your understanding.
+Most of the code is released from them as MIT licensed. I **do not** take any credits for it, only for the modifications made in order to build the customized app. The sole purpose of this repo is for keeping the customizations, not to republish as mine other people's code. Thank you for your understanding.
 
 # WSL Distro Launcher Reference Implementation
 ## Introduction 
