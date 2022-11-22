@@ -6,7 +6,7 @@ This is a work in progress to create a licensed, official and Parrot Team-approv
 > "*The only way we can save Windows as an operative system is to chuck some Linux inside of it.*"  
 > ~ Bill '*let me steal your software*' Gates or somebody, idk
 
-> "*If the Kali dudes did it, why the hell shouldn't we.*"  
+> "*If the Kali dudes did it, why the hell shouldn't we?*"  
 > ~ Some guy who uses Parrot
 
 # WSL Distro Launcher Reference Implementation
