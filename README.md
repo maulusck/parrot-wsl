@@ -3,7 +3,7 @@
 This is a work in progress to create a licensed, official and Parrot Team-approved version of Parrot for WSL.
 
 
-> The only way we can save Windows as an operative system is to chuck Linux inside of it.  
+> The only way we can save Windows as an operative system is to chuck some Linux inside of it.  
 > ~ Bill '*let me steal your software*' Gates or somebody, idk
 
 
