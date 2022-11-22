@@ -3,7 +3,7 @@
 This is a work in progress to create a licensed, official and Parrot Team-approved version of Parrot for WSL.
 
 
-> "*The only way we can save Windows as an operative system is to chuck some Linux inside of it.*"  
+> "*The only way you can save Windows as an operative system is to chuck some Linux inside of it. I'm out vaccinating some children, seeya.*"  
 > ~ Bill '*let me steal your software*' Gates or somebody, idk
 
 > "*If the Kali dudes did it, why the hell shouldn't we?*"  
