@@ -1,3 +1,13 @@
+# Parrot WSL Build
+
+This is a work in progress to create a licensed, official and Parrot Team-approved version of Parrot WSL
+
+`
+> The only way we can save Windows as an operative system is to chuck Linux inside of it.
+> ~ Bill '*nice software, let me steal it*' Gates *or somebody, idk*
+`
+
+
 # WSL Distro Launcher Reference Implementation
 ## Introduction 
 This is the C++ reference implementation for a Windows Subsystem for Linux (WSL) distribution installer/launcher application. Every distro package must include a launcher app, which is responsible for completing installation & registration of your distro with WSL, and for launching new distro instances atop WSL.
