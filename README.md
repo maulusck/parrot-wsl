@@ -3,11 +3,11 @@
 This is a work in progress to create a licensed, official and Parrot Team-approved version of Parrot for WSL.
 This is far from official. Just a heads up.
 
-> "*Chuck some Linux inside of it. Yeah right, else nothing fucking works. I'm out vaccinating some children now, seeya.*"  
-> ~ Bill '*let me steal your software*' Gates or somebody, idk
+> "*Chuck some Linux inside of it. Yeah right, else nothing fucking works. Gotta go vaccinating some third world children now, seeya.*"  
+> ~ Bill '*gimme your software*' Gates or somebody, idk
 
 > "*If the Kali dudes did it, why the hell shouldn't we?*"  
-> ~ Some guy who uses Parrot
+> ~ Some guy who uses Parrot every day of his bloody life
 
 ### Following here is the official documentation from Microsoft®.
 Most of the code is released from them as MIT licensed. I **do not** take any credits for it, only for the modifications made in order to build the customized app. The sole purpose of this repo is for keeping the customizations, not to republish as mine other people's code. Thank you for your understanding.
