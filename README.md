@@ -1,9 +1,9 @@
 # Parrot WSL Build
 
 This is a work in progress to create a licensed, official and Parrot Team-approved version of Parrot for WSL.
+This is far from official. Just a heads up.
 
-
-> "*The only way you can save Windows as an operative system is to chuck some Linux inside of it. I'm out vaccinating some children, seeya.*"  
+> "*Chuck some Linux inside of it. Yeah right, else nothing fucking works. I'm out vaccinating some children now, seeya.*"  
 > ~ Bill '*let me steal your software*' Gates or somebody, idk
 
 > "*If the Kali dudes did it, why the hell shouldn't we?*"  
