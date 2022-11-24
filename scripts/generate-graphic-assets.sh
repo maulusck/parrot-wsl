@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# generate Parrot's graphic assets based on the defaults Microsoft provides
 set -e
 
 # env vars
