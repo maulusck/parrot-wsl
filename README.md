@@ -13,7 +13,6 @@ This is far from official. Just a heads up.
 
 - default rootfs is missing `sudo`, on initial user setup you are left without root privileges
 
-###
 ### Following here is the official documentation from Microsoft®.
 Most of the code is released from them as MIT licensed. I **do not** take any credits for it, only for the modifications made in order to build the customized app. The sole purpose of this repo is for keeping the customizations, not to republish as mine other people's code. Thank you for your understanding.
 
