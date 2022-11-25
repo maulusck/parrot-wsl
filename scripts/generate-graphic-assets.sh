@@ -7,9 +7,9 @@ set -e
 IN_DIR="Assets"
 OUT_DIR="ParrotAssets"
 
-IMG_IMG="parrot-logo.png"
-TXT_IMG="parrot-text.png"
-FULL_IMG="parrot-wide.png"
+IMG_IMG="parrot_graphics/parrot-logo.png"
+TXT_IMG="parrot_graphics/parrot-text.png"
+FULL_IMG="parrot_graphics/parrot-wide.png"
 
 # CATEGORIES:
 #
