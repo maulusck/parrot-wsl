@@ -11,7 +11,17 @@ This is far from official. Just a heads up.
 
 ## TODO
 
-- default rootfs is missing `sudo`, on initial user setup you are left without root privileges
+- drink beer
+- ???
+
+## HOWTO
+
+This repo contains some deployment scripts in `scripts`, where you can generate or directly fetch the rootfs needed for WSL.
+WSL project expects a `install.tar.gz` located in the `$ARCH` directory, for 99% of the cases it will be `x64`. You get the rootfs and put it there, since the directory is generated automatically.
+More documentation will come soon.
+
+Also includes is a script which generates graphic assets according to the defaults of WSL distros, you will need ImageMagick installed and also to read the script.
+By default variables have to be changed.
 
 ### Following here is the official documentation from Microsoft®.
 Most of the code is released from them as MIT licensed. I **do not** take any credits for it, only for the modifications made in order to build the customized app. The sole purpose of this repo is for keeping the customizations, not to republish as mine other people's code. Thank you for your understanding.
