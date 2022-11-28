@@ -22,6 +22,6 @@ mkdir -p images
 for arch in amd64; do
     bootstrap $arch
 #    tar cvfp - parrot-$arch/ | xz -q -c --best --extreme - > images/Parrot-rootfs-${VERSION}_$arch.tar.xz
-    tar cvfp - parrot-$arch/ | gzip -q -c --best - > images/Parrot-rootfs-${VERSION}_$arch.tar.xz
+    tar cvfp - parrot-$arch/ | gzip -q -c --best - > images/Parrot-rootfs-${VERSION}_$arch.tar.gz
     rm -rf parrot-$arch
 done
